@@ -1,0 +1,67 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "zg16zjZTQ9R89+UOLmEZxHgxDtM=",
+			"path": "github.com/coreos/go-systemd/activation",
+			"revision": "88bfeed483d372fa1298dd859662e4b9a13d68cb",
+			"revisionTime": "2018-07-05T09:34:42Z"
+		},
+		{
+			"checksumSHA1": "GDLNLD3FL8uDHPvbAeFUlc0omEc=",
+			"path": "github.com/docker/go-connections/sockets",
+			"revision": "97c2040d34dfae1d1b1275fa3a78dbdd2f41cf7e",
+			"revisionTime": "2018-08-21T09:36:06Z"
+		},
+		{
+			"checksumSHA1": "vpdQhinBu4qOnlUzRAIA13MtI1E=",
+			"path": "github.com/docker/go-plugins-helpers/network",
+			"revision": "39e3ca757823ff8ec10601ed043c02d6d4074be8",
+			"revisionTime": "2018-07-04T13:48:13Z"
+		},
+		{
+			"checksumSHA1": "e/cSY11dRBYpw1MpxpKLDG0NO28=",
+			"path": "github.com/docker/go-plugins-helpers/sdk",
+			"revision": "39e3ca757823ff8ec10601ed043c02d6d4074be8",
+			"revisionTime": "2018-07-04T13:48:13Z"
+		},
+		{
+			"checksumSHA1": "OWbaNR1prqY0Dg6ot5dXa/ZfMLg=",
+			"path": "github.com/vishvananda/netlink",
+			"revision": "8aa85bfa77a45236ae842cab3a91853e2b74e07a",
+			"revisionTime": "2018-08-10T15:18:51Z"
+		},
+		{
+			"checksumSHA1": "kSYMUoTDqMtAQ7D2OzWz1PH2M9Q=",
+			"path": "github.com/vishvananda/netlink/nl",
+			"revision": "8aa85bfa77a45236ae842cab3a91853e2b74e07a",
+			"revisionTime": "2018-08-10T15:18:51Z"
+		},
+		{
+			"checksumSHA1": "8Y8hkjXEkSXBzI/dIdJPXYlGu24=",
+			"path": "github.com/vishvananda/netns",
+			"revision": "13995c7128ccc8e51e9a6bd2b551020a27180abd",
+			"revisionTime": "2018-07-20T11:23:40Z"
+		},
+		{
+			"checksumSHA1": "W+3cWL5KjepzF1XvyMSBUYfa8x8=",
+			"path": "golang.org/x/net/internal/socks",
+			"revision": "8a410e7b638dca158bf9e766925842f6651ff828",
+			"revisionTime": "2018-08-25T16:15:26Z"
+		},
+		{
+			"checksumSHA1": "UrFs0T7kkYsUxJG5bsJt7KB8ejI=",
+			"path": "golang.org/x/net/proxy",
+			"revision": "8a410e7b638dca158bf9e766925842f6651ff828",
+			"revisionTime": "2018-08-25T16:15:26Z"
+		},
+		{
+			"checksumSHA1": "/oEl/3NTCLX7V+5cGV3fJd/87oA=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "4910a1d54f876d7b22162a85f4d066d3ee649450",
+			"revisionTime": "2018-08-24T09:55:51Z"
+		}
+	],
+	"rootPath": "github.com/myplugin"
+}
